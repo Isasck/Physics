@@ -1,0 +1,136 @@
+Chapter 6 -- Wave Nature of Light and Electromagnetic Waves
+
+1. Consider Young's double slit experiment. 
+   a) What are the features of intereference pattern produced?
+
+   b) Why can't it be done by replacing the double slit with two light sources?
+    Ans: Light waves from two light sources are not coherent and the interference pattern is not observable.
+
+   ci) How can an interference pattern be produced?
+    Ans: The slit width must be COMPARABLE to the wavelength. The two slits cannot be too far apart. (e.g. slit width of 0.1mm is acceptable, but not 1mm)
+
+   cii**) Alternative minima and maxima can be detected along the screen only if the slits are very narrow. Explain briefly. [2 marks]
+    Ans: Only narrow slits allow light waves to diffract enough [1] so that the diffracted waves can overlap. [1]
+
+   d) Under what conditions can the pattern be observed?
+    Ans: When the light waves passing through the two slits are coherent and have similar amplitudes.
+
+   e) What changes are there in the pattern if the monochromatic light source is replaced by white light? [3 marks]
+    Ans: The central bright fringe is white. [1]
+         For other orders of maxima, colour spectra are formed. [1]
+         For each spectrum, the inner edge is violet while the outer edge is red. [1]
+
+   f) Recall the relevant formulas.
+
+   g****) Someone claims that more fringes can be captured on the screen if the screen is moved towards the double slit. Explain whether this claim is correct. [2 marks]
+    Ans: Correct: Bright fringes of larger angular separations from the central bright fringe can be projected on the screen if the screen is closer to the double slit.
+         Incorrect: The pattern formed by a double slit is very narrow. Moving the screen towards the slit will not increase the number of fringes captured.
+
+   h) Explain the changes of fringe pattern when the setup is put in water. [3 marks]
+    Ans: Light travels slower in water. By v = fλ, the wavelength of light in water is shorter than that in air. Therefore, fringes formed on the screen will be more closely spaced.
+   
+   i) Explain how the pattern is formed. [3 marks]
+    Ans: -The light waves diffract when they pass through the two slits
+         -Diffracted waves from the two slits interfere and form the pattern
+         -The points of constructive interference correspond to bright fringes, while the points of desturctive interference correspond to dark fringes.
+          
+2. What factors affect the interference pattern for a) double slit b) diffraction grating?
+
+3. When calculating the wavelength using the double slit formula, what assumption is made? (small angle approximation)
+
+4. Consider an experiment where a monochromatic light source is directed at a diffraction grating along a metre rule.
+   a) What are the features of intereference pattern produced?
+
+   b) Under what condition can the angle of diffraction be calculated accurately? / How can we improve the accuracy of the experiment?
+    Ans: When the grating-screen distance is much larger than the grating spacing. / Move the screen further away from the grating to increase the grating-screen distance.
+
+   c) Given grating spacing and wavelength, find the maximum total number of bright fringes formed.
+
+   d) State two applications of interference in daily-life. (Gauze curtain, colourful butterfly wings, DVD)
+
+   e) The illuminated slit may not be well aligned along the metre rule. Suggest one way to reduce this error. (from DSE 2014 paper 1B q7) [2 marks]
+    Ans: Repeat the procedures with the pin on the other side of the observer. [1] Take the average value of y obtained from both sides to calculate λ.
+
+5. Describe two ways to estimate the wavelength of a laser light with i) double slit ii) diffraction grating. 
+   iii) Suggest and explain one precaution that can make the results more accurate. iv) Compare the accuracy of two methods. [12 marks]
+
+   i) -Direct the laser beam perpendicularly to the double slit to project an interference pattern on the screen
+      -Measure the distance D between the double slit and the screen
+      -Measure the distance y between the zeroth-order and the nth-order bright fringes
+      -Calculate the wavelength of laser light λ by Δy = y/n and Δy = λD/a
+
+   ii) -Direct the laser beam perpendicularly to the grating to project an interference pattern on the screen
+       -Measure the distance D between the grating and the screen
+       -Measure the distance y between the zeroth-order and the nth-order bright fringes
+       -Calculate the angle of diffraction x by tan(x) = y/D, then calculate the wavelength of light λ by dsinx = nλ
+
+   iii) Using higher-order bright fringe rather than the first-order bright fringe when measuring y. This reduces the percentage error in y.
+
+   iv) Diffraction grating, because the interference pattern formed by it is larger than that of double slit, resulting in a more accurate measurement of fringe separation.
+
+6. Compare double slit and grating regarding the following aspects and explain briefly.
+   a) Brightness of pattern: grating allows more light to pass through than a double slit, fringes are brighter
+   b) Span of pattern: Slit separation is much smaller than grating spacing. By comparing the two formulas, the value of θ is much larger for a grating
+   c) Angle of diffraction √ for nth-order bright fringe
+   d) Fringe separation: evenly spaced vs larger fringes further from centre
+   e) Distance between nth-order and 0th-order bright fringes
+   f) Highest order of bright fringe
+
+7a. Why are radio waves more commonly used in telecommunications than microwaves even though microwaves can carry more information?
+
+Ans: Radio waves have a longer wavelength and can diffract more around objects for signal transmission.
+
+7b. Why are microwaves used in satellite telecommunications but not radio waves?
+
+Ans: Radio waves have lower frequency and hence greater diffraction effect. They by-pass small obstacles and are not to be reflected from them.
+
+8. State the a) properties and b) applications of EM waves.
+
+9. State the mathematical relationship between wave speed, wave length, sinθ and refractive index for a fixed frequency.
+
+10. Explain why the reception of signals is affected when a large cargo ship passes near the source of signal transmission.
+
+Ans: The radio waves reflected by the cargo ship interfere with the waves coming directly from the source, so reception is affected.
+
+11. Refer to DSE practice on p.136. 
+   a) As the receivers moves from P to Q, the loudspeaker produces loud and soft sounds alternately. Explain briefly.
+    Ans: -The path difference of the diffracted waves from X and Y to the receiver varies along PQ
+         -Minima are recorded where destructive interference occurs, so soft sounds are produced. Miaxma are recorded where constructive interference occurs, so loud sounds are produced
+
+   b) What is the restriction on the widths of the slits in this experiment?
+    Ans: They should be COMPARABLE to the wavelength of the microwaves.
+
+   c) Someone expects the loudspeaker to produce a loud sound when the receiver is at P. However it does not. Explain briefly why this problem exists and suggest a method to fix it.
+    Ans: -The DISTANCE OF THE TRANSMITTERS FROM X and Y are different, so the MICROWAVES COMING OUT from the two slits may not be IN PHASE. 
+         -The problem can be fixed by locating the transmitter at EQUAL DISTANCE FROM X and Y
+
+12***) Consider a transmitter emitting microwaves towards a convex paraffin lens. The loudspeaker will produce a louder sounds if the pointer detector detects a stronger microwave signal.
+       Explain why the loudest sound is produced at a particular position.
+
+    Ans: The microwaves are converged by the convex paraffin lens. (superposition)
+
+13. Determine if X is double slit or a grating based on a picture of the interference pattern. (tip: answer according to the comparable + observable features in q6, e.g. span)
+
+Example Ans: Grating. SPAN OF PATTERN produced by a double slit would be much narrower.
+
+14. State some precautions taken in double slit/grating experiment to produce an observable pattern.
+
+15. DSE 2015 paper 1B q5
+    b: State and explain your observation when two small LEDs with same wavelength separated by 6mm are directed onto a screen.
+     Ans: The screen is uniformly illuminated. [1] The light from the LEDs is incoherent. [1]
+
+    dii: Why does the value obtained by calculation differ with the measurement in circular water waves?
+     Ans: Screen has to be far away from slits (D >> a). [1] Small angle approximation cannot be applied. [1]
+
+Ans: -Slit separation should be very small
+     -Laboratory should be blacked out
+     -Slits shd be as narrow as possible
+     -Screen should be placed at a suitable distance of around 1-2m
+     -If a filament lamp is used as the light source, make sure that the filament is parallel to the slits
+
+Other tips/misconceptions/common mistakes:
+1. Only diffraction and interference serve as evidence for the wave nature of light.
+2. Recite the EM spectrum briefly.
+3. How to find maximum number of bright fringes observed in double slit experiment, given a) wavelength, b) slit separation, c) sinθ
+   (Original question: p.146 q29) (If observations can be carried out up to an angle of 2° on both sides of the central maximum)
+   --> remember a sinθ => nλ
