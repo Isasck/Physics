@@ -1,3 +1,72 @@
+Chapter 5 -- Wave Phenomena and Stationary Waves
+
+1. What is the mathematical relationship between, wave speed, wavelength, frequency, refractive index and the ratio of sin(i)/sin(r)?
+
+2. When waves approach the shore, why do the wavefronts become parallel to the shoreline?
+
+Ans: Water is shallower near the shore. As a wave approach the shore, it undergoes refraction and bends gradually until it travels along the normal to the shoreline.
+
+3. What is refraction, diffration, principle of superposition and interference?
+
+Ans: Refraction is the change in travelling direction of a wave due to a change in wave speed.
+     Diffraction is the bending or spreading of waves around the edge into the 'shadow' of an obstacle.
+     The principle of superposition states that when two or more waves overlap, the displacement of any point on the resultant wave is the sum of the displacements
+     due to all waves at that point.
+     Interference occurs when two waves overlap.
+
+4. What are the conditions needed to form a stable interference pattern?
+
+Ans: Same frequency, constant phase difference (coherent sources)
+
+5. What is a) constructive interference and b) destructive interference?
+
+Ans: a) It occurs at positions where the two waves arrive in phase
+     b) It occurs at position where the two waves arrive in antiphase
+
+6. How can the nodal and antinodal lines be spread more widely? 
+
+Ans: Increasing wavelength of waves, decreasing separation between sources
+
+7. Find the total number of antinodal lines. 
+
+Ans: Find distance between S1 and S2, see how many whole number (n) of wavelengths can fit in this distance. Final result is n*2 + 1 lines.
+     Path difference < S1S2 = xλ [1], Total no. of antinodal lines = <ans> [1]
+
+8. State the differences between travelling wave and stationary wave. (propagation, wavelength, amplitude, frequency, particle motion, phase, energy).
+
+9*. State the conditions for a stationary wave to be formed on a string. [3 marks]
+
+Ans: A stationary wave is formed when two waves travel in opposite directions [1] and have the same amplitude and frequency [1].
+     The frequency of a stationary wave must be a multiple of the fundamental frequency. [1]
+
+10*. A stationary wave is formed on a string. What will happen with the tension if it is varied such that a new stationary wave with fewer loops is formed? [3 marks]
+
+Ans: -A new stationary wave with fewer loops is formed when the wavelength λ decreases. [1]
+     -By v = fλ, for constant f, v increases if λ increases
+     -Therefore, the tension should increase so that the wave speed v increases
+
+11. Explain how a stationary wave is formed. [4 marks]
+
+Ans: -The incident wave produced by the vibrator is reflected at the fixed end [1] 
+     -The reflected wave and the incident wave travel at the same speed in opposite directions [1]
+     -q9 pts 2 & 3 [1+1]
+
+12. What is the purpose of lining the ripple tank with sponge?
+
+Ans: To reduce the reflection of water waves [1] by absorbing energy from the wave. [1]
+
+13. How do breakwaters prevent big waves from approaching the shore? 
+
+Ans: When the water waves passes the first breakwater, diffraction occurs. The diffracted waves can be blocked by the second breakwater.
+
+14. You are given a rectangular tray filled with water, a ruler, and a stopwatch. 
+   a) Describe how you would use the above apparatus to find the speed of a pulse travelling in the tray of water. [4 marks]
+   b) Suggest one possible error due to reaction time. [1 mark]
+   c) Which tray, the one with deeper water of the one with shallower water, will have a smaller percentage error when finding the speed of the pulse travelling in it? [3 marks]
+
+Other tips/misconceptions/common mistakes:
+1. The maximum amplitude of a particle in a stationary wave cannot be determined with one figure (need to refer to graph).
+
 Chapter 6 -- Wave Nature of Light and Electromagnetic Waves
 
 1. Consider Young's double slit experiment. 
@@ -133,4 +202,66 @@ Other tips/misconceptions/common mistakes:
 2. Recite the EM spectrum briefly.
 3. How to find maximum number of bright fringes observed in double slit experiment, given a) wavelength, b) slit separation, c) sinθ
    (Original question: p.146 q29) (If observations can be carried out up to an angle of 2° on both sides of the central maximum)
-   --> remember a sinθ => nλ
+   --> remember a sinθ => nλ    
+
+Chapter 7 -- Sound
+
+1. Find the amplitude, wavelength, period, frequency, wave speed according to the position of particles.
+
+2. Find the possible frequencies of the wave. (Hint: In a certain period, the wave may have travelled nλ)
+
+3. When do particles move at the highest speed? Where are they momentarily at rest?
+
+4. For particles located in the centre of compression/rarefaction, which direction do they vibrate in when compared to the wave?
+
+5. Determine if the following statement is true or not: A particle is momentarily at rest when it is furthest away from other particles.
+
+6a) When a loudspeaker is put in front of the candle and produces sound, the smoke rises in a series of zigzags. Why?
+6b) Demonstrate that sound waves are longitudinal. 
+
+Ans: -Place the candle which has been lighted up in front of the loudspeaker. THe flame moves forward and backward.
+
+Ans: Sound is a longitudinal wave. When the loudspeaker is turned on, its cone vibrates. Air particles in front of the cone are forced to vibrate to and fro.
+     This produces a sound wave, which carries energy and travels outwards.
+
+7. What type of wave is sound? How does the speed of sound vary in different media? Compare the wave properties of sound to light.
+
+8. Consider an experiment measuring the speed of sound in air. Two microphones X and Y are connected to a timer and separated by distnace d.
+  a) The value of d should not be too small. Explain. (Ans: Percentage eror in measuring d will be large if d is too small.)
+  b*) The metal plate transmitting the sound waves should not touch the bench. Explain. 
+     (Ans: Some sound waves will travel through the bench. Since sound travels much faster in bench than in air, the experimental results will be affected.)
+
+9. Find the distance between A and B, given the time separation of the echo.
+
+10. How can the following wave phenomena of sound be shown? a) Reflection b) Refraction c) Diffraction d) Interference
+   a) Echoes b) Balloon filled with CO2 (sound travels slower in CO2 than in air) acting as a lens and focuses sound wave at a point.
+   c) Setup with loudspeaker and a long paper tube. Sound can be heard at different positions in front of the tube.
+   d) Place 2 smartphones 0.5m apart from each other on a table with tone generators. Alternate loud and osft sounds are detected across the area in front of the phones.
+
+11. What is the audible frequency range? What does sound within this range imply? What is ultrasound and what are its applications? (Ans: Sonar system, ultrasound scanning)
+
+12. Submarines typically emit ultrasound pulses for navigation. Why can't microwaves be used? (Ans: Microwaves are easily absorbed by water.)
+
+13. Define the following terms: a) pitch b) loudness c) quality (Ans: a) frequency difference b) amplitude difference c) waveform difference.
+
+14. The amplitude of the trace on the oscilloscope is not zero at positions of destructive interference. Why?
+
+Ans: -There is background noise
+     -Reflection of sound at the walls
+     -Intensities of sound from 2 sources reaching the microphone may not be equal/sound waves from 2 sources have different amplitudes
+     -Microphones has finite size/microphone is not a point receiver
+
+15**. Given a loudspeaker unit with two speaker cones, a big one and a small one. The sound waves generated by the speaker cones will bend around the rim of the cones
+    in a way similar to water waves bending around corners of obstacles. Which cone is more suitable for emitting high-frequency sounds? Why?
+
+Ans: Smaller cone. Since the wavelength of high frequency sounds is shorter, diffraction is less. Smaller cone can be used to increase its degree of diffraction.
+
+16. Given a graph that displays the trasmitted and reflected pulses from a CRO. Determine which pulse is the reflected pulse.
+
+Ans: Reflected pulse has a smaller amplitude. 
+
+Other tips/misconceptions/common mistakes:
+1. Unlike particles vibrating in phase, particles vibrating in antiphase are not necessarily at a fixed distance of (n+1/2)λ from each other.
+2**. For a s-d graph, if the curve goes to +ve to -ve through the axis, the intercept corresponds to a centre of compression (and vice versa).
+3. 0dB is the threshold of hearing, which is the LOWEST SOUND INTENSITY that can be heard by the human ear. (not 'no sound')
+4. Briefly memorise the sound intensity levels of different activities. (e.g. normal talking = 60dB)

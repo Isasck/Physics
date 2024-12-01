@@ -1,0 +1,44 @@
+Chapter 1 -- Electrostatics
+
+1. What is the law of conservation of charge? What is the SI unit of charge?
+
+2. What is the difference between electrical conductors and insulators, and how are they attracted to charged objects? What is this process called?
+
+Ans: -A electrical conductor is an object with free electrons. Free electrons are pulled towards a charged object.
+     -A electrical insulator is an object in which all electrons are tightly bounded to the nuclei. ELectrons WITHIN EACH MOLECULE are pulled towards the obejct.
+     -Electrostatic induction
+
+3a) Explain why a plastic rod becomes negatively charged after it is rubbed by the cloth.
+ Ans: Some electrons are transferred from the cloth to the palstic bag.
+
+3b*) Describe and explain the net electrostatic direction of the net electrostatic force acting on paper bits by the plastic rod. [COMMON]
+ Ans: On the can, positive charges are induced at the end near the bag and negative charges at the end far from the bag.
+      The attraction on the near end is greater than the repulsion on the far end. Therefore, the net electrostatic force acts towards the bag.
+
+3c) If the rubbed plastic rod is replaced by a rubbed metal rod, are there any changes to the result? 
+ Ans: The metal rod will attract paper bits, because it is discharged by earthing through the hand. 
+      (Whenever the rod is charged, the charges are immediately shared with the Earth via the human body)
+
+4. What is charging and discharging? Name some examples of charging and discharging. For these examples, are they applicable to conductors, insulators, or both?
+
+Ans: -Charging: neutral object becomes electrically charged; Discharging: electrically charged object becomes neutral
+     -Charging by friction: applies to insulators and insulated conductors
+     -Charging by sharing: applies only to conductors
+     -Discharging by earthing: applies only to conductors
+     -Charging by induction: applies only to conductors
+
+5. Refer to a flying aluminium foil experiment (p.12).
+ a) Explain why the metal tray becomes charged after it is touched momentarily in step 3. (Ans: charging by induction and earthing)
+ b) Explain why the foil 'flies' in the air after it is released and touches the tray in step 4. (Ans: share like charges -> repulsion)
+
+6a) What is a gold leaf electroscope. (Ans: An instrument to test the presence of electric charges.)
+6b) What is a Van de Graaff generator? [EXTRA] (Ans: A Van de Graaff generator pulls electrons from the Earth, moves them along a belt and stores them on the large sphere.)
+
+7. A girl stands on a plastic stool and puts her hands on a metal dome. After a large amount of charges are transferred to the dome, the girl's hair stands on end. Explain.
+
+Ans: The girl's hair carry the same kind of charges and repel each other.
+
+Other tips/misconceptions/common mistakes:
+1. Always point out which method of charging is involved in short questions (e.g. sharing, induction).\
+2. For attraction problems between neutral and charged objects, always consider what will happen after the 2 objects touch each other 
+   (e.g. attraction -> sharing -> repulsion)
