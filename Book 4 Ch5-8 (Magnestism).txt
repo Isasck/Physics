@@ -1,0 +1,71 @@
+Chapter 5 -- Magnetic Fields
+
+1. Describe a method to find the magnetic pattern on the cardboard using iron fillings.
+
+Ans: -Sprinkle some iron fillings on the cardboard
+     -Tap the cardboard gently
+     -The magnetic field pattern is reflected by the pattern of the iron fillings
+
+2a) Describe the procedure for an experiment to investigate the relationship between strength of an electromagnet and the no. of turns of its coil.
+
+Ans: -Use the electromagnet to attract the iron clips
+     -Record the number of iron clips when the chain just falls downward
+     -Change the nubmer of turns of the coil and repeat the above procedure
+     -Record the change of the number of iron clips when the chain just falls downward
+     -In each trial, the current should be kept constant
+
+2b) Describe the procedure for an experiment to investigate the relationship between the strength of magnetic field inside a long solenoid 
+    and the no. of turns per unit length of the solenoid. State your expected reuslts.
+
+Ans: -Connect the rheostat, ammeter and the slinky spring in series to a power supply
+     -Stretch the ~ to a certain length. Measure the length l by the meter rule and calculate the no. of turns per unit length n
+     -Measure the magnetic field B at the centre of the slinky spring using the magnetic field sensor
+     -Repeat the experimenti by stretching the slinky spring to different lengths. The resistance of the rheostat should be adjusted in every trial so that 
+      the I through the circuit is set to the same value
+     -Plot the B-n graph. The graph should be a straight line passing through origin.
+
+3. Describe the experiment to illustrate the fact that the magnetic field between two slab-shaped magnets with unlike poles facing each other is uniform
+
+Ans: -Place the cardboard on top of the magnets ~
+     -~ + ~
+     -The iron fillings will form evenly spaced parallel lines between the magnets
+
+4. Estimate the typical strengths of magnetic fields (e.g. Earth magnetic flux density, small bar magnet)
+
+5. Explain if the strength of the magnetic field will be affected by a change in the cross sectional area of the solenoid.
+
+6. Book p.210 q6b): How can the apparatus be modified so that it can also measure the direction of the current?
+
+Ans: Replace the soft-iron block by a permanent magnet with one of the poles facing the coil. 
+     By doing so, the coils is attracted towards the magnet when I flows in one direction and is repelled by it when I flows in the other direction.
+
+7. Suggest 3 ways to strengthen electromagnets.
+
+8. State one assumption used when calculating the magnetic field strength using the forumla B = u0I/2πr
+
+Ans: The length of the coil is much larger than its radius (l >> r).
+
+9. Book p.217 q17a: The electromagnet in this design is inefficient in attracting magnetic materials. Explain why and suggest an improvement.
+
+Ans: -The poles of the electromagnet which produce the greatest attractive force are not facing the materials to be sorted
+     -Turn the electromagnet by 90° so that one end of the coil faces the materials to be sorted / Use a U-shaped core (with both ends facing the ~)
+
+10. An electromagnet with a steel core retains its magnetism even after the switch is opened. Why? Suggest a solution to this problem.
+
+Ans: -Steel retains part of its magnetic property after the external magnetic field is removed
+     -This can be solved by replacing the steel core with a soft iron core
+
+11. Book p.217 q19: Briefly explain how a 'ding-dong' sound is heard when the bell-push is pressed and released.
+
+Ans: -When ~, a I flows through the coil. The coil produces a B which attracts the soft iron rod.
+     -The soft iron rod is pulled into the coil and tip Q hits metal plate A. This produces the 'ding' sound.
+     -When ~ is released, no I flows through the coil and the soft-iron rod is no longer attracted. 
+      The spring pushes the soft iron rod out of the coil and tip P hits metal plate B. This produces the 'dong' sound.
+
+12. How do maglev trains float? Why is a maglev train ride smoother and faster? (HKDSE 2020 1B q3)
+
+Ans: -Repulsive force between like poles allows ~
+     -As the train is not in contact with the rail, there is no friction between train and rail 
+      -> less vibration (smooother)
+      -> propulsion of train only needs to work against AR (faster)
+

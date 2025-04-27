@@ -1,0 +1,246 @@
+Chapter 1 -- Electrostatics
+
+1. What is the law of conservation of charge? What is the SI unit of charge?
+
+2. What is the difference between electrical conductors and insulators, and how are they attracted to charged objects? What is this process called?
+
+Ans: -A electrical conductor is an object with free electrons. Free electrons are pulled towards a charged object.
+     -A electrical insulator is an object in which all electrons are tightly bounded to the nuclei. ELectrons WITHIN EACH MOLECULE are pulled towards the obejct.
+     -Electrostatic induction
+
+3a) Explain why a plastic rod becomes negatively charged after it is rubbed by the cloth.
+ Ans: Some electrons are transferred from the cloth to the palstic bag.
+
+3b*) Describe and explain the net electrostatic direction of the net electrostatic force acting on paper bits by the plastic rod. [COMMON]
+ Ans: On the can, positive charges are induced at the end near the bag and negative charges at the end far from the bag.
+      The attraction on the near end is greater than the repulsion on the far end. Therefore, the net electrostatic force acts towards the bag.
+
+3c) If the rubbed plastic rod is replaced by a rubbed metal rod, are there any changes to the result? 
+ Ans: The metal rod will not attract paper bits, because it is discharged by earthing through the hand. 
+      (Whenever the rod is charged, the charges are immediately shared with the Earth via the human body)
+
+4. What is charging and discharging? Name some examples of charging and discharging. For these examples, are they applicable to conductors, insulators, or both?
+
+Ans: -Charging: neutral object becomes electrically charged; Discharging: electrically charged object becomes neutral
+     -Charging by friction: applies to insulators and insulated conductors
+     -Charging by sharing: applies only to conductors
+     -Discharging by earthing: applies only to conductors
+     -Charging by induction: applies only to conductors
+
+5. Refer to a flying aluminium foil experiment (p.12).
+ a) Explain why the metal tray becomes charged after it is touched momentarily in step 3. (Ans: charging by induction and earthing)
+ b) Explain why the foil 'flies' in the air after it is released and touches the tray in step 4. (Ans: share like charges -> repulsion)
+
+6a) What is a gold leaf electroscope. (Ans: An instrument to test the presence of electric charges.)
+6b) What is a Van de Graaff generator? [EXTRA] (Ans: A Van de Graaff generator pulls electrons from the Earth, moves them along a belt and stores them on the large sphere.)
+
+7. A girl stands on a plastic stool and puts her hands on a metal dome. After a large amount of charges are transferred to the dome, the girl's hair stands on end. Explain.
+
+Ans: The girl's hair carry the same kind of charges and repel each other.
+
+8. State the Coulomb's Law. 
+
+9. What is electric field strength. (Ans: It is defined as the electric force F per unit charge on q)
+
+10. Calculate a) resultant field strength b) neutral point (distance) (Ans: splitting forces, vector sum)
+
+11. What is special about the electric field between parallel charged plates?
+
+Ans: The E-field has the same strength everywhere between the plates and points towards the negative plate pependicularly.
+
+12. Derive an equation describing the relationship between electrical potential energy and work done/KE. (Ans: QV = 1/2 mv^2)
+
+13. Describe the electric field patterns a) around an isolated point charge b) between 2 parallel charged paltes c) around 2 point charges
+
+14. A small conducting ball is placed midway between 2 parallel metal plates conducted to an E.H.T. via an ammeter. [2011 AL q7]
+ a) State how to make the ball acquire +ve charges. (Ans: Let the ball touch the left plate to share some +ve charges.)
+ b*) After the ball acquires +ve charges, explain why it can shuttle continuously between the two plates.
+    Ans: -When the ball acquires +ve charges, it repels away from the +ve charged left plate and is attracted to the right plate
+         -When the ball touches the right plate, it acquires -ve charges from it. The process repeats.
+ c**) State and explain how the average current registered by the ammeter is affected if the separation of the two metal plates is decreased.
+    Ans: -As the separation decreases, electric field between the plates increase (by E = V/d)
+         -Electric force on the ball increases
+         -Acceleration on the ball increases, and so average current increases
+
+15. Suggest a simple method to test whether the electric field between the plates is uniform. [DSE Practice Paper q8c]
+
+Ans: -Fix the plates separation and the output of the EHT supply
+     -Move the polystyrene tile so that the ball is placed in different positions in the space between the plates
+     -The angle should remain the same if the electric field between the plates is uniform
+     (same angle = same magnitude of electric force = uniform electric field)
+
+16. Illustrate how the size of metal spheres affect the quantities of charge shared by them after they touch each other, using suitable apparatus. [6 marks]
+
+Ans: -Touch the metal plate of the gold leaf electroscope for a short moment so that it is earthed
+     -Bring the two spheres in contact momentarily without earthing them.
+     -Bring one of the spheres in contact with the electroscope. Record the degree of deflection of the gold leaf
+     -Earth the gold leaf electroscope again
+     -Bring the other sphere in contact with the electroscope and record the degree of deflection of the gold leaf
+     -The large sphere would cause the gold leaf to deflect at a larger angle. This shows that the large sphere acquires more charge.
+
+17. (p.49 q23d)
+
+Ans: -By symmetry, the resultant E field at Z points upwards. Opposite charges are induced on the top and bottom end of the sphere
+     -The net electrostatic force acting on the sphere points downwards. When the sphere is released, it accelerates downwards from rest
+     -After passing through line joining Q and Y, the electrostatic force acting on it becomes upwards
+     -Therefore, it oscillates about the line joining Q and y
+
+18. Why is the cell wall torn when a very strong electric field is applied on the potato? (p.50 q24b)
+
+Ans: -When a strong electric field is applied on the potato, opposite charges are induced in the two sides of each cell in the potato
+     -The top side experiences an upward electric force and the bottom side experiences a downward electric force
+     -The cell is torn apart vertically if the forces are strong enough
+
+Other tips/misconceptions/common mistakes:
+1. Always point out which method of charging is involved in short questions (e.g. sharing, induction).
+2. For attraction problems between neutral and charged objects, always consider what will happen after the 2 objects touch each other 
+   (e.g. attraction -> sharing -> repulsion)
+3. The direction at a certain point in an E-field is the same as the electric force acting on a positive charge +q placed at that point.
+   Similarly, the direction F is opposite to that of E if a negative charge -q is placed in the field.
+   
+Chapter 2 -- Current, Voltage and Resistance
+
+1. Book p.107 q30a: Why does the sliding contact have to be moved quickly?
+
+Ans: -When the I through the bulb increases, temp. of the filament increases
+     -Moving the sliding contact quickly can reduce temp. change
+
+2. A student claims that since the R of light bulb is not a constant, the equation R = V/I cannot be used to calculate the R of the bulb. Explain why this is wrong.
+
+Ans: R = V/I is the definition of resistance. It is applicable to all conductors.
+
+3. Describe, with the aid of a circuit diagram, a method to find how the R of a metal wire of uniform thickness varies with its length l.
+
+Ans: -<circuit with ammeter and wire in series, sliding contact and R in parallel>
+     -Use the sliding contact C to vary the length l on which V is measured
+     -Record respectively the voltmeter reading V and ammeter reading I. The resistance R is given by R = V/If
+     -Plot a graph of R against l. A straight line passing through the origin is obtained.
+
+4a) What is an electric current?
+4b) What is a galvanometer/current sensor used for? (Ans: for detecting size and direction of current)
+4c) What is e.m.f.? (Ans: E imparted by a source per unit charge passing through)
+4d) What is p.d.? (Ans: Electric PE converted to other forms per unit charge passing between 2 pts in the external circuit)
+4e) What is voltage? (Ans: Change in electric PE per unit charge)
+4f) What does the Ohm's law state?
+
+5. Estimate the typical values of voltage (e.g. lightning, MTR train, solar cell)
+
+6. Suggest a reason why Ohm's law is not obeyed outside a certain range in a V-I graph.
+
+Ans: As V passes through the lamp, the temp. of the lamp increaes and the R of the lamp increases.
+
+7. Suggest how to measure the temperature of a metallic coil to detect its change of temp. due to current.
+
+Ans: Immerse the coil into the water in a water bath. Meausre temp. of water with a thermometer.
+
+Points to note:
+1. A source does not provide charges to the circuit. It only supplies energy to charges passing through the battery.
+2. Ohm's law is true provided that temp. and other physical conditions are unchanged.
+3. Conductors that obey Ohm's law are called ohmic conductors. R of an ~ remains the same when different p.d. is applied across it.
+4. Conductors that don't obey Ohm's law are called non-ohmic conductors. R of ~ vary under different p.d. (changing slope of V-I graph)
+
+Chapter 3 -- Circuits in Practice
+
+1. Explain why the voltmeter reading is smaller than the theoretical value. State how a more accurate result can be obtained.
+
+Ans: -When the voltmeter is conected in parallel with the resistor, their Req becomes lower than ~
+     -Therefore, the voltage across the resistor becomes lower
+     -Use a voltmeter of higher resistance
+     (Req reduced = V measured across ~ reduced)
+
+2. Book p.138 q16b: Which circuit gives a more accurate estimation of R? Explain. (setups to measure resistor of low/high resistance)
+
+Ans: -Circuit 2 (circuit to measure resistor of high R)
+     -Resistance of voltmeter is comparable with that of resistor. A significant part of current measured in circuit 1 goes through the voltmeter
+     -Resistance of ammeter is much smaller than that of resistor
+     -Only a small part of voltage measured in circuit 2 in contributed by the voltage across ammeter
+
+3. Explain why a camera may not work properly at a low temperature, when the internal resistance of the battery is high.
+
+Ans: At low temp., terminal voltage across the battery is lower than normal and may not be able to supply the operating voltage for the ~
+
+4. Resistors of very high resistance are used in the circuit of a high voltage prob (measures voltage up to 40kV). Explain.
+
+Ans: This reduces the I through the circuit and hence reduces the risk of an electric shock
+
+5. With the aid of a circuit diagram, describe the procedure of an experiemnt to study how the terminal voltage V delivered by the battery depends on the 
+   resistance R connected to it. State one precaution of the experiment. [DSE 2019 1B q7a]
+
+Ans: -Close the switch and record corresponding V and r
+     -Adjust the resistance R to other values to repeat the experiment
+     -Precuations: set the variable resistor to its max initially/ open the switch after each measurement
+
+Points to note:
+1. Resistance of voltmeter should be much higher than that of the component it measures.  
+2. Resistors can protect some circuit components (e.g. ammeter) from being damaged by large I.
+3. For questions involving potential dividiers, consider calculating the voltage obtained when the sliding is at mid-pt or at two ends (may be able to find max I).
+
+Chapter 4 -- Domestic Electricity
+
+1. Estimate the typical rated power of the common electrical appliances.
+
+2. State 2 advantages of connecting sockets in parallel. (ans: can work at mains voltage, on/off independently)
+
+3. State advantages of the ring circuit arrangement.
+
+Ans: -Current is divded into two halves via two paths, thus thinner cables can be used
+     -If the ring circuit is broken at one point, it can still function
+     -Since current is divded into two halves, the chance of overloading is reduced
+
+4. State advantages of branch circuits with reference to circuit breakers.
+
+5. Should a fuse be installed in the neutral wire? (Ans: The appliance would still be live even after the fuse has blown. It is dangerous.)
+
+6. Referring to a cell phone charger with a plastic case and a plastic earth pin: 
+  a) Why is the 'fake' earth pin needed? b) Explain why it is safe to use the charger even without an earth wire.
+
+Ans: a) An earth pin is needed to open the shutters covering the live and the neutral holes on a socket.
+     b) The charger has an insulating plastic case. No current will flow through the case.
+
+7. Should an air conditioner be connected to the ring main? Why? 
+
+Ans: No, it draws a larger I. It should be connected in a separated circuit parallel to the ring main to avoid overloading.
+
+8. State the advantage of keeping the voltage of the neutral wire at 0V. 
+
+Ans: To ensure that the appliace is at 0 potential when switched off/ To prevent electric charge from accumulating in the appliance.
+
+9. What is an alternating current? What is the difference between a.c. and d.c.?
+
+10. Book p.180 q17d: State an assumption you made an explain how this assumption affects your answer in c).
+
+Ans: Assume no heat loss to surroundings. The heat loss becomes more significant as temp. of the fuse wire increases. 
+     The actual time taken for the fuse wire to melt is longer than 6.33s.
+
+11. Book p.180 q18ciii): Jimmy says that the circuit breaker will certainly be triggered beceause the total I drawn by the sockets >30A. Comment.
+
+Ans: Incorrect. The actual current drawn from each socket is < 13A. The circuit breaker will not be trigger as long as the total current < 30A.
+
+12. State a function of the earth wire. (Ans: ~ keeps the potential of the metal body of appliance at 0V to prevent an electric shock in case of a fault.)
+
+13. State the function of the earth terminal in the socket. (Ans: It prevents electric shock if there is a leakage of electricity to the metal case.)
+
+14. Give a reason why switches should be connected to the live wire instead of to the neutral wire.
+
+Ans: To ensure that the appliances are cut off from live/high voltage when the switch is open, so that no electric shock occurs when the appliance is touched.
+
+15. The household voltage supply in HK has changed from 200V a.c. to 220V a.c. in 1995. Suggest 2 reasons for the change.
+
+Ans: To increase power output; to match with the international standard
+
+16. Explain why it is safer to have the earth pin longer than the other two pins.
+
+Ans: 1. To ensure that the metal case of the heating element is earthed before the heating elemen is connected to the live wire.
+     2. The long pin opens the shutter that blocks the other 2 apertures to prevent accidental insertion of metal objects.
+
+17. Explain why the resistance of a light bulb working at its rated value is much greater than when it is working at a lower rated voltage/power.
+
+Ans: When the bulb is working at its rated value, its temperature is much higher, so its resistance increases.
+
+18. Explain why thick wires are used to connect the water heater to the mains supply.
+
+Ans: Thick wires have smaller resistance, which reduces the heating effect of current on the wires.
+
+19. Ch4 Test q1diii): Which wire could prevent an electric shock of a person touched the case of the heater? Explain.
+
+Ans: Wire C (earth wire). Its resistance is very low and current would be conducted from the case through this wire to the Earth.

@@ -41,7 +41,7 @@ Ans: A stationary wave is formed when two waves travel in opposite directions [1
 
 10*. A stationary wave is formed on a string. What will happen with the tension if it is varied such that a new stationary wave with fewer loops is formed? [3 marks]
 
-Ans: -A new stationary wave with fewer loops is formed when the wavelength λ decreases. [1]
+Ans: -A new stationary wave with fewer loops is formed when the wavelength λ increases. [1]
      -By v = fλ, for constant f, v increases if λ increases
      -Therefore, the tension should increase so that the wave speed v increases
 
@@ -164,7 +164,7 @@ Ans: The radio waves reflected by the cargo ship interfere with the waves coming
 11. Refer to DSE practice on p.136. 
    a) As the receivers moves from P to Q, the loudspeaker produces loud and soft sounds alternately. Explain briefly.
     Ans: -The path difference of the diffracted waves from X and Y to the receiver varies along PQ
-         -Minima are recorded where destructive interference occurs, so soft sounds are produced. Miaxma are recorded where constructive interference occurs, so loud sounds are produced
+         -Minima are recorded where destructive interference occurs, so soft sounds are produced. Maxima are recorded where constructive interference occurs, so loud sounds are produced
 
    b) What is the restriction on the widths of the slits in this experiment?
     Ans: They should be COMPARABLE to the wavelength of the microwaves.
@@ -236,7 +236,7 @@ Ans: Sound is a longitudinal wave. When the loudspeaker is turned on, its cone v
 10. How can the following wave phenomena of sound be shown? a) Reflection b) Refraction c) Diffraction d) Interference
    a) Echoes b) Balloon filled with CO2 (sound travels slower in CO2 than in air) acting as a lens and focuses sound wave at a point.
    c) Setup with loudspeaker and a long paper tube. Sound can be heard at different positions in front of the tube.
-   d) Place 2 smartphones 0.5m apart from each other on a table with tone generators. Alternate loud and osft sounds are detected across the area in front of the phones.
+   d) Place 2 smartphones 0.5m apart from each other on a table with tone generators. Alternate loud and soft sounds are detected across the area in front of the phones.
 
 11. What is the audible frequency range? What does sound within this range imply? What is ultrasound and what are its applications? (Ans: Sonar system, ultrasound scanning)
 
@@ -256,9 +256,26 @@ Ans: -There is background noise
 
 Ans: Smaller cone. Since the wavelength of high frequency sounds is shorter, diffraction is less. Smaller cone can be used to increase its degree of diffraction.
 
-16. Given a graph that displays the trasmitted and reflected pulses from a CRO. Determine which pulse is the reflected pulse.
+16. A device that emits ultrasonic pulses is used to monitor the thickness of the wall of a metal pipe. The results are shown in a graph that displays the transmitted and reflected pulses.
+  a) Determine which pulse is the reflected pulse. (Ans: Reflected pulse has a smaller amplitude.) 
+  b**) Given another similar graph but with 3 pulses. Someone points out that there may be a small crack in the wall of the pipe. Explain how this conclusion is made.
+     Ans: Between the transmitted pulse and the pulse reflected from the wall, there is another pulse of smaller amplitude, which should be reflected from the crack.
 
-Ans: Reflected pulse has a smaller amplitude. 
+17. Given a signal generator and 2 identical loudspeakers, design an experiment to show the interference of sound waves.
+
+Ans: -Connect the signal generator to the 2 loudspeakers
+     -Adjust the frequency of signal generator to give a sound note that can be heard
+     -Walking in front of the loudspeakers, alternate loud and soft sound can be heard
+
+18. A metal string is stretched over two wedges. It is plucked and a sound is heard.
+ a) Describe how sound is produced by the string.
+   Ans: When the string vibrates up and down, the air nearby will be forced to move, and the sound wave travels outwards.
+ b) State one difference in the nature of the wave on the string and the sound wave produced.
+   Ans: Both need material medium for propagation./Both are mechanical waves.
+
+19. Is it possible for ultrasound to undergo total internal reflection when it travels from sea water to air?
+
+Ans: No. Ultrasounds refracts towards the normal since ultrasound travels faster in water than in air.
 
 Other tips/misconceptions/common mistakes:
 1. Unlike particles vibrating in phase, particles vibrating in antiphase are not necessarily at a fixed distance of (n+1/2)λ from each other.
